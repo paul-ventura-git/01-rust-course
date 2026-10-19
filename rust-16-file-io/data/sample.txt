@@ -1,0 +1,2 @@
+Rust programs can read text from files.
+Paths and I/O operations can fail, so handle their errors.
